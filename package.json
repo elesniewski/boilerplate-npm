@@ -1,10 +1,10 @@
 {
-	"author": "Eric Lesniewski",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
 	"main": "server.js",
+	"author": "Eric Lesniewski",
 	"scripts": {
 		"start": "node server.js"
 	},
